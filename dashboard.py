@@ -17,7 +17,7 @@ st.set_page_config(
 alt.themes.enable("fivethirtyeight")
 
 # Load data
-main_df = pd.read_csv("dashboard/main_data.csv")
+main_df = pd.read_csv("main_data.csv")
 
 
 # Global variables
