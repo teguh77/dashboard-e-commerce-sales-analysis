@@ -1,9 +1,9 @@
 import altair as alt
-import folium
 import matplotlib.pyplot as plt
 import pandas as pd
 import streamlit as st
 from babel.numbers import format_currency
+import folium
 from folium import CircleMarker
 from streamlit_folium import st_folium
 
