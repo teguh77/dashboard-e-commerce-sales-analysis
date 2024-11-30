@@ -11,6 +11,6 @@ pip install -r requirements.txt
 ## Run steamlit app
 
 ```
-streamlit run dashboard.py
+streamlit run dashboard/dashboard.py
 choose the dark theme in settings streamlit app
 ```
